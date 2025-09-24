@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #f4f4f4;
+}
+
+/* konten 1 mulai */
+header {
+  background-color: #007BFF;
+  color: #f4f4f4;
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+/* konten 1 selesai */
+
+/* konten 2 mulai */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007BFF;
+  color: #f4f4f4;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+/* konten 2 selesai */
+
+/* konten 3 mulai */
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #ddd;
+  color: #000000;
+  margin-top: 20px;
+}
+/* konten 3 selesai */
